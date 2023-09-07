@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KOF2022", "KOF2022\KOF2022.vcxproj", "{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Debug|x64.ActiveCfg = Debug|x64
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Debug|x64.Build.0 = Debug|x64
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Debug|x86.ActiveCfg = Debug|Win32
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Debug|x86.Build.0 = Debug|Win32
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Release|x64.ActiveCfg = Release|x64
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Release|x64.Build.0 = Release|x64
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Release|x86.ActiveCfg = Release|Win32
+		{48420FA0-4FC2-4783-B4B6-0F02841DDC7B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC76055-9B7F-4662-B24A-50D132B0B4DC}
+	EndGlobalSection
+EndGlobal
